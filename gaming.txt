@@ -15,4 +15,15 @@
 @@||alb-eut2v5s5v16a53gz78.cn-hangzhou.alb.aliyuncs.com^
 @@||oauth.battle.net^
 @@||telemetry-in.battle.net^
-@@||us.account.battle.net
+@@||us.account.battle.net^
+@@||steampowered.com^
+@@||test.steampowered.com^
+@@||api.steampowered.com^
+@@||ipv6check-http.steamserver.net^
+@@||steamserver.net^
+@@||cmp2.sto1.steamserver.net^
+@@||p2p-sto2.discovery.steamserver.net^
+@@||cmp2.sto2.steamserver.net^
+@@||steamcommunity.com^
+@@||store.steampowered.com^
+@@||steamstatic.com^
