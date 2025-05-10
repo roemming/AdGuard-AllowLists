@@ -27,3 +27,4 @@
 @@||steamcommunity.com^
 @@||store.steampowered.com^
 @@||steamstatic.com^
+@@||akamized.net^
